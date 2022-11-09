@@ -1,4 +1,4 @@
-package test;
+package exercise;
 
 public class exercise06 {
 
