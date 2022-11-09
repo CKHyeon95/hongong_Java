@@ -1,4 +1,4 @@
-package test;
+package 연습문제;
 
 import java.util.Scanner;
 
