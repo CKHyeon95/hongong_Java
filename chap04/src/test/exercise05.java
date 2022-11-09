@@ -1,4 +1,4 @@
-package 연습문제;
+package test;
 
 public class exercise05 {
 
